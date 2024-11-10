@@ -10,18 +10,6 @@
 Оригинал:
 * [Английский](https://github.com/viraptor/reverse-interview)
 
-Переводы:
-- [Арабский](https://github.com/sherifsaleh/reverse-interview/blob/master/translations/ARABIC.md)
-- [Каталонский](https://github.com/viraptor/reverse-interview/blob/master/translations/CATALAN.md)
-- Китайский [упрощенный](https://github.com/yifeikong/reverse-interview-zh) / [традиционный](https://github.com/NeroCube/reverse-interview-zh-tw/blob/master/README.md)
-- [Английский](https://github.com/viraptor/reverse-interview/blob/master/README.md)
-- [Французский](https://github.com/viraptor/reverse-interview/blob/master/translations/FRENCH.md)
-- [Немецкий](https://github.com/viraptor/reverse-interview/blob/master/translations/GERMAN.md)
-- [Корейский](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/Reverse_Interview/README.md)
-- [Португальский (Бразильский)](https://github.com/viraptor/reverse-interview/blob/master/translations/pt-BR.md)
-- [Русский](https://github.com/kix/reverse-interview/blob/master/README.md)
-- [Испанский](https://github.com/felHR85/Entrevista-inversa/blob/master/README.md)
-- [Турецкий](https://github.com/viraptor/reverse-interview/blob/master/translations/TURKISH.md)
 
 
 ## Как пользоваться списком
